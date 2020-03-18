@@ -17,6 +17,12 @@ Deploy like a boss.
 
 </div>
 
+## Installation2
+
+```bash
+$ pip install boss-cli==1.0.1
+```
+
 ## Installation
 
 ```bash
