@@ -1,5 +1,13 @@
 # Change Log
 
+1.0.6 (2019-05-20)
+===============================
+
+Module changes
+--------------
+
+* The `dom2` plugin has been successfully upgraded.
+
 1.0.5 (2017-05-20)
 ===============================
 
